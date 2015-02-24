@@ -1,0 +1,335 @@
+{{c1::Alfred Wallace}} was the young researcher who came up with a similar explanation of evolution to Darwin's theory of natural selection, which helped convince Darwin that he should publish?		exam1
+{{c1::Alfred Wallace}} was the young researcher who came up with a similar explanation of evolution to Darwin's theory of natural selection, which helped convince Darwin that he should publish.		exam1
+A protein consists of 200 amino acids. The gene coding for this protein consists of {{c1::200}} codons, and {{c1::600}} nucleotides.		exam1
+Different cells produce different proteins in a multicellular organism because {{c1::molecular bookmarks}} are put in each cell's DNA to indicate which {{c2::genes}} should be active.		exam1
+Many species share the gene to make the protein {{c1::kinase}}, which is necessary for {{c2::mitosis}}.		exam1
+Chromatid	A daughter strand of a replicated chromosome.	exam1
+{{c1::Replication}} of a {{c2::chromosome}} produces two {{c3::chromatids}} joined together at the {{c4::centromere}}.		exam1
+Alleles	Alternative forms of the same gene	exam1
+Genotype	Codes for a phenotype	exam1
+A {{c1::genotype}} codes for a {{c2::phenotype}}.		exam1
+A {{c1::homologous pair}} of chromosomes consists of a {{c2::maternal}} and a {{c2::paternal}} chromosome.		exam1
+Prior to {{c1::mitosis}}, each {{c2::homolog}} {{c3::replicates}} producing two sets of {{c4::sister chromatids}}.		exam1
+Gametes	Sperm and eggs	exam1
+The role of {{c1::meiosis}} is to produce {{c2::gametes}}.		exam1
+In women, {{c2::meiosis}} occurs within the {{c1::ovaries}}.		exam1
+In men, {{c1::meiosis}} occurs within the {{c2::testes}}.		exam1
+{{c1::Sperm}} and {{c1::eggs}} are produced by the process of {{c2::meiosis}}.		exam1
+During {{c2::mitosis}}' {{c1::interphase}} and {{c1::prophase}}, the elongated chromatin in the nucleus condense to form microscopically visible chromosomes, each with two genetically identical sister chromatids.		exam1
+During {{c1::mitosis}}' {{c2::metaphase}}, the nuclear membrane disappears, and the centriole divides. Spindle fibers form between the centriole and the sister chromatids. The chromatids line up near the center of the cell, with the centromeres attached to the spindle.		exam1
+Anaphase	The spindle fibers shorten and pull the sister chromatids to opposite poles of the cell.	exam1
+Telophase	The daughter chromosomes lose their visible identity and again appear as chromatin threads, and two new nuclear membranes form around them the cytoplasm divides by cytokinesis, and two new cells are formed.	exam1
+Most human cells have {{c1::23}} pairs of chromosomes.		exam1
+Life cycle	A sequence of events that take place in an organism's life.	exam1
+Gametophyte	"The green ""leafy"" parts of a moss that we primarily see."	exam1
+Sporophytes produce {{c1::spores}}.		exam1
+Protonemata	A common moss' tiny root-like structures that will become the gametopyte.	exam1
+{{c1::Mutant types}} have one or more phenotypic traits that differ from those of the {{c2::wild-type}}.		exam1
+Haploid	One complete set of each type of chromosomes (1n)	exam1
+Diploid	The total number of paired chromosomes (2n)	exam1
+Humans have a {{c2::diploid}} ({{c3::2n}}) number of {{c1::46}} chromosomes.		exam1
+Gene expression	The process by which the information encoded in a gene is used to direct the assembly of a protein molecule.	exam1
+Crossing over	The process by which the two chromosomes in each homologous pair exchange segments during meiosis.	exam1
+Cladistics	A way of breaking organisms into groups (clades) that indicate a common ancestor and possible decendents.	exam1
+During {{c1::mitosis}}, the following steps are taken in the order that they appear: {{c2::interphase}}, {{c3::prophase}}, {{c4::metaphase}}, {{c5::anaphase}}, and {{c6::telophase}}.		exam1
+Law	Describes a natural phenomenon	exam1
+Theory	Explains how a natural phenomenon occurs	exam1
+Darwin's educational background included {{c1::medical studies}}, {{c2::religious studies}}, and {{c3::natural history}}.		exam1
+Mendel's educational background included practical and theoretical {{c1::philosophy}} and {{c2::physics}}, and {{c3::religious studies}}.		exam1
+Independent assortment	Traits determined by different genes are inherited independently of each other.	exam1
+Segregation	The observation that the two alleles in an individual can separate, with half of the offspring inheriting one allele and half of the offspring inheriting the other allele	exam1
+Heterozygous	Two different alleles per gene	exam1
+Homozygous	Identical alleles for same gene	exam1
+Phenotype	Describes the physical characteristics or traits	exam1
+Monohybrid	Cross between hybrids, where only one gene is compared	exam1
+Dihybrid	Cross between hybrids, where two genes are compared	exam1
+{{c1::Recessive}} alleles are expressed only for a {{c2::homozygous}} genotype.		exam1
+Heterozygous	Two different alleles	exam1
+The point of DNA {{c2::replication}} is to make another strand of {{c1::DNA}}.		exam1
+Transcription	To make mRNA	exam1
+Translation	Organizing amino acids into a growing polypeptide chain	exam1
+Gene	A distinct stretch of DNA that is the basic physical and functional unit of heredity	exam1
+Allele	A gene that occupies a given locus.	exam1
+Locus	A position on a chromosome.	exam1
+Genome	The set of an organism's genes.	exam1
+Chromosome	A structure composed of DNA and protein that carries the genetic information of an organism.	exam1
+Centromere	The part of the chromosome that joins the two chromatids together.	exam1
+The {{c1::spindle}} attaches to the {{c2::centromere}} during mitosis and meiosis.		exam1
+Exon	Part of gene that will be transcribed and appear in the final mRNA.	exam1
+Intron	Part of gene that will be transcribed but not appear in the final mRNA.	exam1
+In DNA there are two strands that complement each other, the {{c1::coding}} strand and the {{c2::template}} strand.		exam1
+Replication	The process of copying DNA.	exam1
+Essential amino acids	Amino acids that need to be consumed because the body cannot make them.	exam1
+The bases in DNA are held together by {{c1::hydrogen bonds}}.		exam1
+Point mutation	A small change in DNA.	exam1
+{{c2::Ribose}} sugar has one extra {{c1::oxygen}} atom than {{c2::deoxyribose}} sugar.		exam1
+Template strand	The sequence of DNA that is copied during the synthesis of mRNA.	exam1
+{{c1::Frederick Griffith}} studied streptococcus bacteria.		exam1
+{{c1::Watson}} and {{c1::Crick}} published the structure of DNA first.		exam1
+{{c1::U}} replaces {{c2::T}} on mRNA.		exam1
+Variable expression	All cells in an organism have the same genes, but only some are used.	exam1
+{{c1::Thomas Hunt Morgan}} linked Mendel's principles of inheritance and Darwin's theory of natural selection as a means for transforming species.		exam1
+HOX genes	Organize head, thorax (i.e., chest), and abdomen.	exam1
+Many researchers of the 18th and 19th centuries, including Darwin, believed that {{c1::every body part released particles that traveled to the reproductive organs}}.		exam1
+{{c1::Robert Fitzroy}} was the captain of the HMS Beagle during Darwin's famous voyages.		exam1
+Science focuses on what can be {{c1::observed}}.		exam1
+Scientists are always {{c1::communicating}} with other scientists.		exam1
+{{c1::Observation}} &gt; {{c2::Question}} &gt; {{c3::Research design}} &gt; {{c4::Data collection}} &gt; {{c5::Data analysis}} &gt; {{c6::Question}}		exam1
+Scientific knowledge {{c1::changes}} over time.		exam1
+Ancient cultures recognized {{c1::inheritance}} and knew species changes over time.		exam1
+Artificial selection	Humans do the selection, instead of nature.	exam1
+The Saluki is a dog maintained through {{c1::selective}} breeding.		exam1
+{{c1::Aristotle}} believed in inheritance through mixing male and female {{c2::fluids}}.		exam1
+In {{c1::1660}}, people believed a miniature human existed in each egg or sperm.		exam1
+Theory of acquired characteristics	Parents acquire and then pass on traits to offspring; these accumulate over generations.	exam1
+In the {{c1::18th}} century, people believe that particles from all over a body were sent to the genitals.		exam1
+"{{c1::19th}} century: Blending ""particle"" inheritance"		exam1
+{{c1::Monohybrid}} ({{c2::one trait}}) cross		exam1
+{{c1::Dihybrid}} ({{c2::two trait}}) cross		exam1
+True-breeding	BB or bb	exam1
+Principle of Independent Assortment	Different genes (shape, color, etc.) can be inherited independently of one another.	exam1
+{{c1::Friedrich Miescher}} was the first person to see DNA.		exam1
+Paradigm	Widely accepted theory.	exam1
+DNA consists of {{c1::phosphate}}, {{c2::sugar}} and {{c3::four bases}}.		exam1
+{{c1::Mendel}}'s work was not recognized until after his death.		exam1
+In DNA, {{c1::Adenine}} pairs with {{c2::Thymine}}.		exam1
+In DNA, {{c1::Cytosine}} pairs with Guanine.		exam1
+Backbone	Phosphate and sugar.	exam1
+{{c1::Proteins}} produce observable traits.		exam1
+A {{c1::protein}} is made of {{c2::amino acids}}.		exam1
+Polypeptide	Chain of amino acids.	exam1
+Cell folds {{c1::polypeptide}} to make a {{c2::protein}}.		exam1
+The incorrect folding of a {{c1::polypeptide}} can cause disease such as Alzheimer's Disease.		exam1
+Linus Pauling won both the Nobel Prize in {{c1::Chemistry}} and the {{c2::Nobel Peace Prize}}.		exam1
+{{c1::Proteins}} do {{c2::EVERYTHING}}.		exam1
+Proteins perform the following functions: {{c1::structure}}, {{c2::transport}}, {{c3::protection}}, {{c4::reception}}, {{c5::communication}}, and {{c6::regulation}}.		exam1
+Enzymes are proteins that {{c1::regulate}} chemical reactions.		exam1
+Cell membrane proteins {{c1::transport}} materials.		exam1
+Skin, hair, and nails are made of {{c1::keratin}}.		exam1
+{{c1::Rhodopsm}} receives light.		exam1
+Protein synthesis	DNA codes for the construction of a specific polypeptide.	exam1
+The death cap mushroom's toxin stops {{c1::transcription}}.		exam1
+Some antibiotics block bacterial {{c1::translation}}.		exam1
+Mendelian inheritance or Complete dominance	Only the dominant allele's protein is produced.	exam1
+Incomplete dominance	A little of each allele's protein is produced.	exam1
+Codominance	A lot of each allele's protein is produced.	exam1
+Polygenic	Multiple genes determine trait (e.g., eye color).	exam1
+Modifier genes	Genes that can modify the effect of another gene.	exam1
+Albino	Gene stops production of pigment proteins.	exam1
+Master control genes	Activate numerous genes to control complex tasks.	exam1
+A cell's {{c1::environment}} can impact how genes function.		exam1
+{{c1::Mutations}} produce new {{c2::alleles}}.		exam1
+{{c1::Mutations}} is sperm and eggs can be passed on to future generations.		exam1
+Mutations are caused by {{c1::mistakes during DNA replication}} and {{c2::damage from external agents}} (mutagens).		exam1
+Mutation repair proteins	Defend against mutations.	exam1
+Mutations usually {{c1::do not}} change protein or cell function, but may sometimes have a {{c1::negative}} impact, or more rarely, a {{c1::positive}} impact.		exam1
+Fruit fly life cycle:<br />Egg &gt; {{c1::Larva}} &gt; {{c1::Pupa}} &gt; Adult		exam1
+Fertilization	1N + 1N = 2N	exam1
+Cancer	Excessive meitosis	exam1
+Meiosis	Only occurs in ovaries or testes.	exam1
+Rosemary and Peter Grant studied finches at {{c1::a Galapagos island}}.		exam2
+A&nbsp;severe&nbsp;{c1::drought}} in 1977 impacted Rosemary and Peter Grant's study.		exam2
+Natural selection is {{c1::observable}}.		exam2
+During a severe {{c1::drought}} in 1977, Galapygos finches with {{c2::large}} beaks survived, while those with {{c2::small}} beaks perished.		exam2
+Mutation	Change in DNA	exam2
+A {{c1::mutation}} is a source of new {{c2::alleles}}.		exam2
+{{c1::Variation}} of {{c2::alleles}} is necessary for {{c3::selection}}.		exam2
+Evolution	Allele frequencies change over time.	exam2
+In Galapygos finches, different {{c1::beaks}} are better for specific foods.		exam2
+Allele {{c1::frequencies}} can change rapidly.		exam2
+Evolution not always {{c1::directional}}, often just {{c2::fluctuations}}		exam2
+Genetic drift	Survival of the Luckiest	exam2
+Gene flow (or gene migration)	Individuals move, interbreed, and share alleles.	exam2
+Genetically engineered alfalfa alleles flow up to {{c1::1000 m}}.		exam2
+Factors impacting evolutio: {{c1::mutation}}, {{c2::selection}}, {{c3::genetic drift}}, and {{c4::gene flow}}.		exam2
+{{c2::Evolution}} is {{c1::changing allele frequencies}}.		exam2
+A {{c1::mutation}} is a {{c2::source of variation}}.		exam2
+Gene flow	Allele movement	exam2
+Fitness	Chance of surviving and reporoducing.	exam2
+Relative fitness	An individual's chance of leaving offspring compared to other individuals.	exam2
+Natural selection	An individual is more fit than other members of its species.	exam2 final-exam
+Misconception: Survival of the fittest {{c2::ever}} (just means fittest at that {{c1::moment in time}})		exam2
+Direct observation	Watching allele frequencies change.	exam2
+Precambrian Eon	Time prior to the Phanerozoic Eon (4.5 bya - 550 mya)	exam2
+The {{c1::Precambrian}} encompasses most of Earth's lifetime.		exam2
+Stratigraphy	Rock strata (layers), including fossils	exam2
+Geochronology	Geologic time, radiometric dating	exam2
+Hadean Eon	Hellish Eon	exam2
+{{c1::Continental formation}} occurred during the {{c2::Archaen Eon}}.		exam2
+{{c1::Gases}} + {{c2::Water}} + {{c3::Energy}} -&gt; {{c4::Amino acids}}		exam2
+{{c1::DNA/RNA}} is needed to organize {{c2::amino acids}} to make meaningful {{c2::proteins}}.		exam2
+By {{c1::2.3 bya}}, there was {{c2::cyanobacteria}} that carried out {{c3::photosynthesis}}.		exam2
+"""{{c1::Microbial mats}}"" in {{c2::low-oxygen}} waters"		exam2
+{{c1::Bacteria}} and {{c1::archaea}}, the first life on Earth, existed {{c3::3.9 bya}}.		exam2
+Almost no {{c1::rocks}} exist from the {{c2::Hadean Eon}}.		exam2
+By the {{c1::Proterozoic Eon}}, {{c2::oxygen}} allowed for the emergence of {{c3::eukaryotes}}, {{c3::multicellular life}}, and {{c3::animals}}.		exam2
+First animals	Ancestors of jellyfish, sea fans, etc.	exam2
+Phanerozoic Eon	Current Eon	exam2
+The {{c1::Phanerozoic}} Eon enompasses the {{c2::Paleozoic}}, {{c2::Mesozoic}}, and {{c2::Cenozoic}} Eras.		exam2
+Cenozoic	Current Era	exam2
+"The ""{{c1::Cambrian}} {{c2::Explosion}}"" occurred during the {{c3::Paleozoic}} Era."		exam2
+The {{c1::Paleozoic}} Era occured during {{c2::550-248 mya}}.		exam2
+"The ""{{c1::Cambrian}} {{c2::Explosion}}"" resulted in the first {{c3::hard-shelled}} fossils."		exam2
+{{c1::Trilobites}} are {{c2::index}} fossils of the {{c3::Paleozoic}} Era.		exam2
+The first {{c1::vertebrates}} and {{c2::land plants}} emerged during the {{c3::Paleozoic}} Era.		exam2
+Vertebrate	An animal with a spinal column.	exam2
+{{c1::Amphibians}} and {{c1::reptiles}} emerged during the end of the {{c3::Paleozoic}} Era.		exam2
+Ammonites	Index fossil of Mesozoic Era (a.k.a., LORD HELIX)	exam2
+More than {{c1::90%}} of species went extinct because of {{c2::warming}} during the end of the {{c3::Permian Period}}.		exam2
+The Mesozoic Era occurred {{c1::248-65 mya}}.		exam2
+During the {{c1::Mesozoic}} Era, {{c2::mammals}} emerged and {{c2::insects}} diversified.		exam2
+Mesozoic Era	Rise of the Reptiles	exam2
+{{c1::Birds}} are the last surviving ancestor of the {{c2::big reptiles}}.		exam2
+{{c1::Dinosaurs}} went extinct by the end of the {{c2::Mesozoic}} Era.		exam2
+Cenozoic Era	Rise of mammals (65 mya - present)	exam2
+{{c1::Grasses}} became abundant during the {{c2::Cenozoic}} Era.		exam2
+The goal of {{c1::evolutionary trees}} is to understand {{c2::the origin of the diversity of life}}.		exam2
+Phylogeny	Evolutionary relationship among groups of organisms over time	exam2
+{{c1::Phylogenetic trees}} and {{c1::cladograms}} are the types {{c2::evolutionary trees}}.		exam2
+Phylogenetic tree	Ancestral relationship + branches have meaning; widely accepted	exam2
+Cladogram	Ancestral relationships; hypothesis	exam2
+Hypothesis	A proposed explanation of a phenomenon.	exam2
+An {{c1::evolutionary tree}} is constructed under the assumption that {{c2::all organisms are connected by genes passed along the branches of the tree}}.		exam2
+{{c1::Morphological data}} (structures) and {{c1::molecular data}} (DNA, proteins) are the types of data used to construct {{c2::trees}}.		exam2
+For {{c3::living species (or recently extinct)}}, we have both {{c2::morphological data}} and {{c2::molecular data}}.		exam2
+For {{c1::long extinct species}}, we have {{c2::morphological data}} from {{c3::fossils}} and {{c3::amber}}.		exam2
+The T. rex -&gt; bird relationship was derived exclusively from {{c1::collagen protein sequence data}}.		exam2
+{{c1::Chickens}} and {{c1::ostriches}} are the closest living relatives to the {{c2::T. rex}}.		exam2
+Science needs to be {{c1::predictive}}.		exam2
+Scientists use trees to develop and test {{c1::hypotheses}}.		exam2
+{{c1::Tetrapod}} ancestor existed {{c2::360+}} mya		exam2
+"{{c2::Trees}} can be used to study {{c1::major adaptations}} (e.g., ""camera"" eyes)."		dinosaur exam2
+Species	Individuals can successfully interbreed.	dinosaur exam2
+There are {{c1::200+}} species of Lake Victoria {{c2::Cichlids}}.		dinosaur exam2
+Different {{c1::species}} can look {{c2::similar}} (e.g., {{c3::Milk Snake}} and {{c4::Coral Snake}}).		dinosaur exam2
+Even if {{c1::phenotypically}} different, two individuals can be of the same {{c2::species}}.		dinosaur exam2
+{{c1::Reproductive isolation}} is necessary for {{c2::speciation}} (stop gene flow).		dinosaur exam2
+Temporal isolation	Mating at different times	dinosaur exam2
+Behavioral isolation	Differences in behavior prevent mating.	dinosaur exam2
+Mechanical isolation	Mah pingas can't fit!	dinosaur exam2
+Two species may produce a {{c1::hybrid}} (usually sterile).		dinosaur exam2
+Habitat, temporal, behavioral and mechanical	Types of reproductive isolation	dinosaur exam2
+Allopatric and sympatric	Types of speciation	dinosaur exam2
+Allopatric speciation	New species arises from different location	dinosaur exam2
+Sympatric speciation	New species arises from the same location	dinosaur exam2
+Progression and adaptive radiation	Patterns of speciation	dinosaur exam2
+Progression	One species becomes another	dinosaur exam2
+Adaptive radiation	One species becomes many	dinosaur exam2
+Approximately {{c1::three}} species will go extinct today.		hash-functions
+Mass extinction	&nbsp;When the majority of species on Earth die off	hash-functions
+More than {{c1::90%}} of species died during the {{c2::PT extinction}}.		hash-functions
+{{c1::Catastrophes}} lead to {{c2::climate change}}.		hash-functions
+If {{c1::climate}} changes, some species may {{c2::do better than others}} and {{c2::drive the others to extinction}}.		hash-functions
+No one knows what caused the {{c1::P-T extinction}} {{c2::250 mya}}.		hash-functions
+The {{c1::catastrophe}} that lead to the {{c2::K-T extinction}} {{c3::65 mya}} was most likely a {{c4::meteor impact}}.		hash-functions
+More than {{c1::10 million}} species live on Earth.		hash-functions
+Approximately {{c1::10,000}} species go extinct each year.		hash-functions
+Most species that have gone extinct on Earth were probably {{c1::microscopic}}.		hash-functions
+Most of the oxygen in the atmosphere are produced by {{c1::microscopic species}}.		hash-functions
+The {{c1::dodo}} was identified in {{c2::1598}} and went extinct in {{c2::1662}}.		exam2
+More than {{c1::3 billion}} {{c2::passenger pigeons}} existed in {{c3::1850}}; today, they are extinct.		exam2
+The extinction of the {{c1::passenger pigeon}} is the fastest extinction ever caused by humans.		exam2
+The #1 cause of extinction is {{c1::habitat loss}}.		exam2
+Extinction spiral	Habitat Loss -&gt; Smaller Population -&gt; fewer offspring, inbreeding -&gt; Fewer Adults, Less Genetic Diversity -&gt; Extinction	exam2
+A chemical in {{c1::periwindles}} can kill a particular form of {{c2::Leukemia}}.		exam2
+An extract from {{c1::Borneo trees}} hinders {{c2::HIV}}'s ability to attack white blood cells.		exam2
+{{c1::DNA/Genome}} banks {{c2::preserve}} and {{c2::research}} {{c4::genetic material}}.		exam2
+Coevolution	Multiple species evolving together	exam2
+{{c1::Relationships}} between species can impact {{c2::fitness}}.		exam2
+Positive - negative relationships	Predation, parasitism and commensalism	exam2
+Predation	Predator kills prey	exam2
+Parasitism	Parasite harms host	exam2
+Commensalism	One species benefits, the other is not impacted.	exam2
+{{c1::Mutualism}} is a positive - {{c2::positive}} relationship.		exam2
+Mutualism	Both species benefit	exam2
+Species {{c1::impact}} each other over {{c2::time}}.		exam2
+{{c1::Coevolution}} can {{c2::increase}} {{c3::biodiversity}}.		exam2
+Cospeciation	New species form together	exam2
+As {{c1::gophers}} evolve into new species, their {{c2::lice}} do also.		exam2
+Endosymbiosis	"The ""ultimate"" relationship; one or more species living inside of another"	exam2
+{{c1::Eukaryotes}} include {{c2::protists}}, {{c2::fungi}}, {{c2::plants}} and {{c2::animals}}.		exam2
+Endosymbiotic theory	Some cellular structures in eukaryotes were originally free-living bacteria.	exam2
+{{c1::Mitochondria}} convert {{c2::sugar}} to {{c2::energy}}.		exam2
+Viruses {{c1::can}} impact evolution.		exam2
+{{c1::Viruses}} insert their {{c2::genetic material}} into organisms to produce more {{c1::viruses}}.		exam2
+During {{c1::2006}}, an extinct {{c2::virus}} was resurrected from the {{c3::human genome}}.		exam2
+"The {{c1::human genome}} contains {{c2::100,000}} segments of DNA from {{c3::viruses}} (i.e., ""junk"" DNA)."		exam2
+We do not know when the first {{c2::virus}} appeared; there are no {{c1::fossil records}}.		exam2
+Evolution is {{c1::NOT only}} impacted by natural selection.		final-exam
+Only {{c1::groups of}} organisms can evolve.		final-exam
+Sexual selection	An individual is more fit than other individuals of the same sex (within its species).	final-exam
+Sexual {{c1::reproduction}} is widespread in organisms.		final-exam
+{{c1::Sexual reproduction}} is advantageous to that of {{c1::asexual reproduction}} in that the former results in greater {{c2::genetic variation}}.		final-exam
+"The biggest problem with sexual reproduction is that {{c1::sex cells need to ""find"" each other}}."		final-exam
+In {{c2::animals}}, males and females often have different {{c1::phenotypes}}.		final-exam
+{{c1::Male}} guppies are more brightly colored than {{c1::female}} guppies.		final-exam
+Guppies {{c1::give live birth}}, which is unusual for a fish.		final-exam
+{{c2::Sexual selection}} can be {{c1::simple}} or {{c1::elaborate}}.		final-exam
+Garter snakes are {{c1::simple}} in {{c2::sexual selection}} in that they are {{c3::opportunistic}}; if the conditions are good, mating happens.		final-exam
+Dance flies are an example of {{c1::elaborate sexual selection}} because the males have to kill an insect, wrap it in spider's silk and present it to a potential mate before having sex.		final-exam
+{{c1::Females}} are often the {{c1::limiting}} sex because {{c3::they invest more in offspring}} and {{c3::many females are unavailable}}.		final-exam
+Male great frigatebirds with {{c1::larger pouches}} are more likely to mate.		final-exam
+"Regarding {{c3::male competition}}, the {{c1::""winning"" traits}} may be {{c2::genetically determined and inherited}}."		final-exam
+{{c1::Females}} sometimes choose mates that {{c2::put on displays of good health}} or {{c3::present gifts}}.		final-exam
+{{c2::Female}} {{c3::rufous hummingbirds}} are more likely to mate with the {{c2::males}} that {{c1::chase more stuff}}.		final-exam
+A {{c1::female}} {{c2::bowerbird}} will mate with a {{c1::male}} that builds an acceptable {{c2::bower}}.		final-exam
+There are {{c1::numerous strategies}} to maximize fitness.		final-exam
+Both male and female {{c1::meadow voles}} are {{c2::promoiscuous}}.		final-exam
+{{c1::Prairie voles}} each have {{c2::a single mate}} within a season (i.e., {{c2::monogamous}}).		final-exam
+There is an {{c1::active vasopressin receptor gene}} that is more active in the {{c2::prairie vole}} than the {{c2::meadow vole}}; this gene is associated wtih {{c3::monogamous behavior}}.		final-exam
+The {{c1::male}} pipefish is a good parent; the {{c2::female}} is a deadbeat.		final-exam
+A pipefish {{c1::male}} chooses its mate.		final-exam
+Among the sided-blotched lizards, {{c1::orange}} males are the dominant males and each has a harem, {{c1::blue}} males each guard a single mate, and {{c1::yellow}} males mimic females, sneak into the {{c1::orange}} males' harems and mates with its members.		final-exam
+Fish likely {{c1::school}} to avoid {{c2::predators}}.		animal-behavior final-exam
+We have not deciphered a single other animal {{c1::language}}.		animal-behavior final-exam
+{{c1::Rock Hyrax}} are most closely related to {{c2::elephants}} and {{c2::manatees}}.		animal-behavior final-exam
+{{c1::Rock Hyrax}} spend {{c2::90}} percent of their time {{c3::sleeping}}.		animal-behavior final-exam
+Behavior	What an animal does when interacting with its environment.	animal-behavior final-exam
+By {{c1::19th}} century: {{c2::artificial selection}} altered animal {{c3::behaviors}}.		animal-behavior final-exam
+{{c1::Darwin}} wrote about how {{c2::structures}} and {{c2::behaviors}} impact {{c3::fitness}}.		animal-behavior final-exam
+{{c1::20}}th century: Genes determine {{c2::innate}} behaviors.		animal-behavior final-exam
+In many birds, the urge to migrate is {{c1::genetic}}.		animal-behavior final-exam
+{{c1::Experiences}} lead to {{c2::learned behaviors}}.		animal-behavior final-exam
+Where Black-cap Warblers migrate to is a(n) {{c1::learned}} behavior.		animal-behavior final-exam
+Stickleback fish attacking anything red is a(n) {{c1::innate}} behavior.		animal-behavior final-exam
+Stickleback building huts is a(n) {{c1::learned}} behavior.		animal-behavior final-exam
+Innate	Nature	animal-behavior final-exam
+Learned	Nurture	animal-behavior final-exam
+Reflex	An immediate, automatic response to a specific stimulus.	animal-behavior final-exam
+Fixed action pattern	A series of reflex responses	animal-behavior final-exam
+Drive	Internal stimulus promotes behavior	animal-behavior final-exam
+{{c1::Meadow Voles}} {{c2::reflexively}} flee when hearing the sound of a bird of prey.		animal-behavior final-exam
+{{c1::Grebes}} perform a mating ritual that is a {{c2::fixed action pattern}}.		animal-behavior final-exam
+{{c1::Cuckoo bird}} is a nest parasite; the victim parent, via a {{c2::fixed action pattern}}, throws ups to feed the {{c1::cuckoo bird}}'s offspring.		animal-behavior final-exam
+Yawning is an example of a(n) {{c1::fixed action pattern}}.		animal-behavior final-exam
+Giraffe's have a(n) {{c1::drive}} to drink water.		animal-behavior final-exam
+A robin's cells are more active in the early morning, creating a(n) {{c1::drive}} to get up and get food.<div><br /></div>		animal-behavior final-exam
+Imprinting	Learning during a sensitive period of time	animal-behavior final-exam
+The brain is {{c1::chemically}} more able to learn certain things when the individual is {{c2::young}}.		animal-behavior final-exam
+Associative learning	Relating one stimulus to another	animal-behavior final-exam
+Pavlov's dogs {{c1::related}} a bell with the presence of food.		animal-behavior final-exam
+Habituation	Learning to ignore specific stimuli	animal-behavior final-exam
+Goose chicks must learn to {{c1::ignore}} geese flying overhead if they are to survive.		animal-behavior final-exam
+Latent learning	Learning while focused on other activities	animal-behavior final-exam
+Insight	Using prior knowledge in a new situation	animal-behavior final-exam
+Kangaroo rats exhibit {{c1::latent learning}} in that they were able to find hiding spots while foraging.		animal-behavior final-exam
+Chimpanzees and especially humans have good {{c1::insight}}.		animal-behavior final-exam
+Hominin	"""Human-like"" species"	final-exam
+Hominin first appeared {{c1::5.5 mya}}.		final-exam
+Apes that are {{c1::bipedal}} and {{c1::upright}} are {{c2::hominin}}.		final-exam
+When analyzing a hominin fossil the following characteristics are noted: {{c1::species, age of fossil, age of individual at the point of death, male or female, diet, body size, and health}}.		final-exam
+Homo ergaster is a {{c1::hominin}}.		final-exam
+When studying hominin, {{c1::fossils}} are primarily analyzed.		final-exam
+{{c1::Comparative anatomy}} and {{c1::DNA comparisons}} are used to compare humans to other species.		final-exam
+{{c1::Ardipithecus}} ({{c2::5 mya}}) was the first {{c3::hominin}} (i.e., the first upright walking apes).		final-exam
+{{c1::Australopithecus}} ({{c2::4+ mya}}) is the most successful {{c3::hominin}}.		final-exam
+"{{c1::Homo habilis}} ({{c4::2.3 mya}}) used {{c2::tools}} and had larger {{c3::brains}} ""Hominan"""		final-exam
+{{c1::Homo erectus}} ({{c3::1.5 mya}}) developed the large hand axes and shelters, and moved from {{c2::Africa}} and spread across the neighboring continents.		final-exam
+{{c1::Homo neanderthalensis}} ({{c2::250 tya}}) is the only homo believed to originate outside of {{c4::Africa}}. Also, {{c3::homo sapiens}} emerge. There are better {{c5::tools}} and evidence of {{c5::social cooperation}} during this time.		final-exam
+{{c1::Neanderthal}} DNA sequenced ({{c2::2010}})		final-exam
+{{c1::Neanderthals}} possibly interbred with {{c2::Homo sapiens}}.		final-exam
+{{c1::Neanderthals}} went extinct {{c2::~30 tya}}.		final-exam
+"{{c1::""Modern humans""}} emerged {{c2::30 tya}} and made {{c3::paintings}} and {{c3::jewelry}}, and performed {{c3::elaborate rituals}}."		final-exam
+"{{c1::Homo floresiensis}} ""Hobbit man"" was alive as recently as {{c2::13 tya}}."		final-exam
+{{c1::Homo sapiens sapiens}} is probably the first species to try to keep every infant alive.		final-exam
+Human evolutionary context: {{c1::new environments}}, {{c1::parasites}}, {{c1::genetic constraints}}, and {{c1::social interactions}}.		final-exam
